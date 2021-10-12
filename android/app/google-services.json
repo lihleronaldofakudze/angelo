@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9849610233",
+    "project_id": "lihle-freelancer",
+    "storage_bucket": "lihle-freelancer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9849610233:android:af76f881b1fa2ee1352728",
+        "android_client_info": {
+          "package_name": "io.cloutdevelopers.angelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9849610233-bj63tnmttbkmbrjkv4frrvdfkp99ag7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOh7eWIVMUKASeoPCZTG-ktjTE1erhrUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9849610233-bj63tnmttbkmbrjkv4frrvdfkp99ag7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
